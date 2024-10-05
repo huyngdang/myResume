@@ -73,6 +73,7 @@ body > section:nth-child(3) > div > div > div:nth-child(2) > h2 {
 body > section:nth-child(3) > div > div > div:nth-child(2) > p {
     font-family: "Red Hat Display", sans-serif;
     color: #FDF6E7;
+    width: fit-content;
 }
 
 .underline {
